@@ -1,0 +1,18 @@
+title=MONOPOLY共同基金,text
+<p align='center'><font size="42" color="#00BFFF"><i><br><br><br><br><br>MONOPOLY<br>共同基金</i></font><p>			共同基金
+<font size="42"><u>    Community Chest    </u><br><br>出産費100ドル支払う</font>		#E0FFFF	共同基金:出産費100ドル支払う
+<font size="42"><u>    Community Chest    </u><br><br>教育費として150ドル支払う</font>		#E0FFFF	共同基金:教育費として150ドル支払う
+<font size="42"><u>    Community Chest    </u><br><br>オペラのチケット代50ドルを各人から徴収できる</font>		#E0FFFF	共同基金:オペラのチケット代50ドルを各人から徴収できる
+<font size="42"><u>    Community Chest    </u><br><br>生命保険満期により100ドル受取る</font>		#E0FFFF	共同基金:生命保険満期により100ドル受取る
+<font size="42"><u>    Community Chest    </u><br><br>ビューティーコンテスト準優勝、10ドル受取る</font>		#E0FFFF	共同基金:ビューティーコンテスト準優勝、10ドル受取る
+<font size="42"><u>    Community Chest    </u><br><br>遺産100ドル受取る</font>		#E0FFFF	共同基金:遺産100ドル受取る
+<font size="42"><u>    Community Chest    </u><br><br>治療費50ドル支払う</font>		#E0FFFF	共同基金:治療費50ドル支払う
+<font size="42"><u>    Community Chest    </u><br><br>株式売却により45ドル受取る</font>		#E0FFFF	共同基金:株式売却により45ドル受取る
+<font size="42"><u>    Community Chest    </u><br><br>刑務所へ行く、200ドルは受け取れない</font>		#E0FFFF	共同基金:刑務所へ行く
+<font size="42"><u>    Community Chest    </u><br><br>道路の修理費として家1軒当り40ドル、ホテル1軒当り115ドル支払う</font>		#E0FFFF	共同基金:修理費
+<font size="42"><u>    Community Chest    </u><br><br>クリスマス基金の満期により100ドルを受取る</font>		#E0FFFF	共同基金:クリスマス基金の満期により100ドルを受取る
+<font size="42"><u>    Community Chest    </u><br><br>GOのマスへ進み200ドル受取る</font>		#E0FFFF	共同基金:GOのマスへ進み200ドル受取る
+<font size="42"><u>    Community Chest    </u><br><br>所得税20ドル戻る</font>		#E0FFFF	共同基金:所得税20ドル戻る
+<font size="42"><u>    Community Chest    </u><br><br>銀行より200ドル受取る</font>		#E0FFFF	共同基金:銀行より200ドル受取る
+<font size="42"><u>    Community Chest    </u><br><br>刑務所から釈放<br>必要な時まで持っていても、売ってもよい</font>		#E0FFFF	共同基金:釈放カード
+<font size="42"><u>    Community Chest    </u><br><br>礼金として25ドル受取る</font>		#E0FFFF	共同基金:礼金として25ドル受取る

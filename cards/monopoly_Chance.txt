@@ -1,0 +1,18 @@
+title=MONOPOLYチャンスカード,text
+<p align='center'><font size="42" color="#FF9999"><i><br><br><br><br><br>MONOPOLY<br>チャンスカード</i></font><p>			チャンスカード
+<font size="42"><u>            Chance            </u><br><br>3マス戻る</font>		#FFE4E1	チャンスカード:3マス戻る
+<font size="42"><u>            Chance            </u><br><br>イリノイへ進む</font>		#FFE4E1	チャンスカード:イリノイへ進む
+<font size="42"><u>            Chance            </u><br><br>セントチャールズプレースへ進む<br>GOを通れば200ドル受取れる</font>		#FFE4E1	チャンスカード:セントチャールズプレースへ進む
+<font size="42"><u>            Chance            </u><br><br>銀行へ15ドル支払う</font>		#FFE4E1	チャンスカード:銀行へ15ドル支払う
+<font size="42"><u>            Chance            </u><br><br>刑務所から釈放される<br>このカードは必要になるまで持っていても、又売却してもよい</font>		#FFE4E1	チャンスカード:釈放カード
+<font size="42"><u>            Chance            </u><br><br>GOのマスへ進む<br>200ドル受取る</font>		#FFE4E1	チャンスカード:GOのマスへ進む
+<font size="42"><u>            Chance            </u><br><br>リーディング鉄道に進む<br>もしGOを通ったら200ドル受取る</font>		#FFE4E1	チャンスカード:リーディング鉄道に進む
+<font size="42"><u>            Chance            </u><br><br>銀行より50ドル受取る</font>		#FFE4E1	チャンスカード:銀行より50ドル受取る
+<font size="42"><u>            Chance            </u><br><br>ボードウォークへ進む</font>		#FFE4E1	チャンスカード:ボードウォークへ進む
+<font size="42"><u>            Chance            </u><br><br>修理費<br>家1軒当り25ドル、ホテル1軒当り100ドルを支払う</font>		#FFE4E1	チャンスカード:修理費
+<font size="42"><u>            Chance            </u><br><br>刑務所へ行く<br>200ドルは受取れない</font>		#FFE4E1	チャンスカード:刑務所へ行く
+<font size="42"><u>            Chance            </u><br><br>各プレイヤーに50ドル支払う</font>		#FFE4E1	チャンスカード:各プレイヤーに50ドル支払う
+<font size="42"><u>            Chance            </u><br><br>銀行より150ドル受取る</font>		#FFE4E1	チャンスカード:銀行より150ドル受取る
+<font size="42"><u>            Chance            </u><br><br>次の水道会社か電力会社に進む<br>所有者がいなければ買うことができる<br>所有者がいたら、ダイスの目の10倍支払う</font>		#FFE4E1	チャンスカード:次の公共会社に進む
+<font size="42"><u>            Chance            </u><br><br>次の鉄道まで進み、通常の2倍のレンタル料を支払う<br>所有者がいなければ買うことができる</font>		#FFE4E1	チャンスカード:次の鉄道に進む
+<font size="42"><u>            Chance            </u><br><br>次の鉄道まで進み、通常の2倍のレンタル料を支払う<br>所有者がいなければ買うことができる</font>		#FFE4E1	チャンスカード:次の鉄道に進む
